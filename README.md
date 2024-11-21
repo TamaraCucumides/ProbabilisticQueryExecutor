@@ -11,4 +11,4 @@ File number of each relation must be
 # Step 2: Evaluate queries
 * A sample of queries from the BetaE benchmark is included in the queries folder
 
-The file 
+Code can be run from `run.py` file. 
