@@ -9,4 +9,6 @@ File number of each relation must be
 {relation_number}.pt
 
 # Step 2: Evaluate queries
-* A sample of queries from the BetaE benchmark is included
+* A sample of queries from the BetaE benchmark is included in the queries folder
+
+The file 
