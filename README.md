@@ -1,6 +1,6 @@
 # Probabilistic Query Executor
 
-This repository contains the source code for PQE: Probabilistic Query Executor. 
+This repository contains the source code for PQE: Probabilistic Query Executor a method for Complex Query answering inspired by *probabilistic databases*. 
 
 # Step 1: Materialize the graph completion
 In the folder data one must include one matrix per relation type, that contains the graph completion. Any link predictor can be used. 
