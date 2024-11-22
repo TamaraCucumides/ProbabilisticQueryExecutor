@@ -12,6 +12,6 @@ File number of each relation must be
 {relation_number}.pt
 
 # Step 2: Evaluate queries
-* A sample of queries from the BetaE benchmark is included in the queries folder
+* A sample of queries from the BetaE benchmark is included in the queries folder. Dataset is FB15k-237. 
 
 Code can be run from `run.py` file. 
